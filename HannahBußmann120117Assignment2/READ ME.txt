@@ -1,0 +1,6 @@
+How to open the java file through the terminal:
+
+1. go into the correct folder by tiping: (you might need to change into the folder you saved my folder in first)
+	cd AlgDat
+2. to execute the file type: 
+	java -jar Task2.jar
